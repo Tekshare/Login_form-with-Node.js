@@ -9,8 +9,6 @@ See (https://docs.npmjs.com/cli/v7/configuring-npm/install).
   ` cd reg-form`.
   ` npm install`.
 
-See (https://docs.npmjs.com/cli/v7/configuring-npm/install).
-
 3. Check the dependencies list to install. 
   ` cd views`. 
   ` cat dependencies`. 
